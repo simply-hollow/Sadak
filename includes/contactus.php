@@ -14,7 +14,7 @@
       </div>
       <div class="col-md-4">
         <div class="contact-item"> <i class="fa fa-envelope-o fa-2x"></i>
-          <b><p>atul.1721ce1040@kiet.edu</p></b>
+          <b><p>sadak1234@gmail.com</p></b>
         </div>
       </div>
       <div class="col-md-4">

@@ -3,7 +3,7 @@
 include("includes/header.php"); 
 include("includes/frontimg.php"); 
 include("includes/nav.php");
-include("image.php"); 
+include("image_without.php"); 
 ?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 

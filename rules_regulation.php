@@ -1,8 +1,8 @@
 <?php
 include("includes/header.php");
 include("includes/frontimg.php"); 
-include("image.php"); 
 include("includes/nav.php"); 
+include("image_without.php"); 
 ?>
 <br>
 <br>
